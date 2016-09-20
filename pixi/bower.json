@@ -1,0 +1,21 @@
+{
+  "name": "pixi",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Müde Zweite <mudezweite@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mu-de/MudeLab",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "^4.0.1",
+    "bootstrap": "^3.3.7"
+  }
+}
